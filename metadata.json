@@ -1,0 +1,5 @@
+{
+  "name": "Linear Regression Trial Visualizer",
+  "description": "An interactive web application to visualize how a computer tries multiple randomized lines during linear regression to find the best-fit line. Users can upload CSV data or use sample data, select the number of trials, and see all attempted lines and the best-fit line on interactive charts.",
+  "requestFramePermissions": []
+}

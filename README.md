@@ -1,8 +1,4 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-## Run Locally
+# Run Locally
 
 **Prerequisites:**  Node.js
 
@@ -14,6 +10,6 @@ This contains everything you need to run your app locally.
    `npm run dev`
 
 
-### 📈 Regression Line Visualizer  
+## 📈 Regression Line Visualizer  
 This interactive web app allows users to explore and visualize simple linear regression in real-time. Built using HTML, CSS, and JavaScript, the tool helps users understand how the regression line is affected by data points.  
 👉 [Live Demo](https://regression-line-visualizer.netlify.app/)
